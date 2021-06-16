@@ -1,0 +1,25 @@
+div{
+    padding: 50px;
+    width: 300px;
+    height: 300px;
+}
+
+a{
+    color: #fff;
+}
+
+.red{
+    background: #ff0000;
+}
+
+.green{
+    background: #00ff00;
+}
+
+.blue{
+    background: #0000ff;
+}
+
+canvas{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
